@@ -1,7 +1,7 @@
 # AngularExample
 
 ## PHP REST API
-This project runs using a PHP rest API [angular-cli](https://github.com/FabioBiao/Php-RestApi)
+This project runs using a PHP rest API [php rest api](https://github.com/FabioBiao/Php-RestApi)
 
 ## Install nonde:
 https://nodejs.org/en/
